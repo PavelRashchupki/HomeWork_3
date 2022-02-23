@@ -15,7 +15,6 @@ public class Main {
         Integer dif;
         Integer d = 10;
         Integer amount;
-        //       Integer value = warehouse.get(key);
 
         while (true) {
             System.out.print("Введите команду: ");
